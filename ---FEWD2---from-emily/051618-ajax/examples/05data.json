@@ -1,0 +1,12 @@
+[
+    {
+        "name":"Kemp's Ridley Turtle",
+        "shortname": "Ridley",
+        "fact": "This turtle nests in the day"
+    },
+    {
+        "name":"Leatherback Turtle",
+        "shortname": "Leatherback",
+        "fact": "Can grow to the size a VW bug"
+    }
+]
