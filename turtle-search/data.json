@@ -1,0 +1,44 @@
+[
+  {
+    "name":"Kemps Ridley",
+    "shortname":"kemps",
+    "fact":"This is the only species that nests primarily during the day.",
+    "bio":"Every year, at the same place and time, thousands of female Kemp's ridley sea turtles come ashore to nest and lay their eggs on the beach. This mass nesting event is known as an arribada, meaning “arrival by sea” in Spanish."
+  },
+  {
+    "name":"Hawksbill Turtle",
+    "shortname":"hawksbill",
+    "fact":"Named for its narrow head and sharp, bird-like beak",
+    "bio":"Hawksbill turtles (Eretmochelys imbricata) are small to medium-sized turtles, but can get as large as 200 lbs (91 kg). Adults live among healthy coral reef communities, feeding primarily on sponges, but they also eat other invertebrates like sea cucumbers, tunicates (sea squirts), crabs, sea stars, and mollusks, as well as some algae."
+  },
+  {
+    "name":"Leatherback Turtle",
+    "shortname":"leatherback",
+    "fact":"Can grow to the size of a VW bug",
+    "bio":"Leatherback turtles (Dermochelys coriacea) are the largest sea turtles, growing as long as six and a half feet (2 m) and weighing some 2,000 pounds (900 kg). They’re unlike the other marine turtles in two important ways: they have a thick leathery carapace (outer covering) instead of a hard bony shell, and can survive in colder waters, allowing them to feed closer to the North and South poles where other turtles can’t survive. Their jaws are too weak to eat hard-bodied prey, so they mostly eat jellyfish and salps. They can dive deeper than 4,000 ft"
+  },
+  {
+    "name":"Loggerhead Turtle",
+    "shortname":"loggerhead",
+    "fact":"The largest of all hard-shelled turtles",
+    "bio":"Loggerhead turtles (Caretta caretta) are named for their large heads and strong jaws, which allow them to eat prey with hard shells, like big marine snails. They live throughout the world’s warm tropical and subtropical oceans. They live off-shore when they’re young, and migrate closer to the coastline as they mature. Despite the decline in their populations around the world there is hope for further protection of these turtles through fisheries gear innovations and collaborations between scientists and governments."
+  },
+  {
+    "name":"Olive Ridley Turtle",
+    "shortname":"olive",
+    "fact":"The smallest marine turtle",
+    "bio":"Olive ridley turtles (Lepidochelys olivacea) are the smallest marine turtle, living in warm waters close to shore as adults. Female olive ridleys take part in mass nestings that can involve 150,000 individual turtles crawling up a beach at night to find a spot for their clutch of around 100 eggs."
+  },
+  {
+    "name":"Flatback Sea Turtle",
+    "shortname":"flatback",
+    "fact":"They can only be found in the waters around the Australian continental shelf.",
+    "bio":"Unlike the other six species of marine turtle, the Australian flatback (Natator depressus) has a very limited distribution, found only from northern Australia to Papua New Guinea/Indonesia and it only breeds in Australia. Flatback turtles tend to spend most of their time at the ocean's surface, often with a bird making use of their shell as a small landing space perfect for a break."
+  },
+  {
+    "name":"Green Turtle",
+    "shortname":"green",
+    "reknown":"Their name comes from the color of their fat, not their shell, as commonly believed.",
+    "bio":"Green turtles (Chelonia mydas) live in the warm coastal waters of tropical and subtropical oceans. Adults sometimes eat sponges, salps (floating jelly-like animals), and jellyfish, but they feed mostly on plants, like seagrass and algae. The pigment from this green diet colors their fat, giving them their common name. Populations of female nesting green sea turtles are estimated to have dropped by 48% to 65% in the past 100 to 150 years. However, recent studies show that marine protected areas are benefitting the turtles."
+  }
+]
